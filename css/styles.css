@@ -62,7 +62,7 @@ h1 {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-  outline: 2px dashed red;
+  /* outline: 2px dashed red; */
 }
 
 .header .container {
@@ -144,7 +144,7 @@ h1 {
 .hero {
   padding-top: 200px;
   padding-bottom: 200px;
-  outline: 2px solid violet;
+  /* outline: 2px solid violet; */
   margin-bottom: 94px;
 }
 
@@ -184,7 +184,7 @@ h1 {
 /* About us */
 
 .about-us {
-  outline: 2px solid turquoise;
+  /* outline: 2px solid turquoise; */
   margin-bottom: 94px;
 }
 
@@ -208,6 +208,14 @@ h1 {
   text-transform: uppercase;
   margin-bottom: 10px;
 }
+.about-us-item .icon-container {
+  background: #f5f4fa;
+  border-radius: 4px;
+  padding-left: 100px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-bottom: 30px;
+}
 
 .about-us .description {
   font-weight: 400;
@@ -219,7 +227,7 @@ h1 {
 
 /* Activity */
 .activity.section {
-  outline: 2px solid limegreen;
+  /* outline: 2px solid limegreen; */
   margin-bottom: 94px;
 }
 
@@ -301,12 +309,12 @@ h1 {
   width: 206px;
   margin-right: auto;
   margin-left: auto;
-  outline: 2px dotted green;
+  /* outline: 2px dotted green; */
 }
 
 .social-nw.list .item {
   align-items: center;
-  outline: 2px dotted blue;
+  /* outline: 2px dotted blue; */
 }
 
 .social-nw.list .item:not(:last-child) {

@@ -439,6 +439,7 @@ footer {
   letter-spacing: 0.06em;
   color: var(--primary-text-color);
   margin-bottom: 4px;
+  padding-left: 24px;
 }
 
 .project-type {
@@ -449,6 +450,7 @@ footer {
   line-height: 1.88;
   letter-spacing: 0.03em;
   color: var(--description-text-color);
+  padding-left: 24px;
 }
 
 .project-description {
@@ -459,6 +461,8 @@ footer {
   /*После позиционирования заменю на цвет из макета
   color: #ffffff;*/
   color: var(--primary-text-color);
+  padding-left: 24px;
+  padding-right: 24px;
 }
 
 .filters.list {
